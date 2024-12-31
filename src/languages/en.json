@@ -2914,8 +2914,7 @@
                 "*[ ℹ️ ] This menu has an internal error, so it could not be sent.*",
                 "*<option> <time>*",
                 "(no prefix)",
-                "*<room name>*",
-                "*puta de mrd*"
+                "*<room name>*"
             ],
             "texto2": "_< Language Options 🌎 >_",
             "texto3": "_< Group Language >_",
