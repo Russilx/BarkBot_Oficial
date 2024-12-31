@@ -36,7 +36,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 ${tradutor.texto1[1]} ${taguser}
  
-┌────${tradutor.texto1[2]}─────────────────────────┐
+┌────${tradutor.texto1[2]}──────┐
 ├✰ _${usedPrefix}menuaudios_
 ├✰ _${usedPrefix}menuanimes_
 ├✰ _${usedPrefix}labiblia_
@@ -45,7 +45,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}glx_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[3]}─────────────────────────┐
+┌────${tradutor.texto1[3]}──────┐
 ├✰ _${usedPrefix}terminosycondiciones_
 ├✰ _${usedPrefix}grupos_
 ├✰ _${usedPrefix}estado_
@@ -60,7 +60,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _bot_ (sin prefijo)
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[4]}─────────────────────────┐
+┌────${tradutor.texto1[4]}──────┐
 ├✰ _${usedPrefix}serbot --code_
 ├✰ _${usedPrefix}serbot_
 ├✰ _${usedPrefix}deletebot_
@@ -69,7 +69,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}bots_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[5]}─────────────────────────┐
+┌────${tradutor.texto1[5]}──────┐
 ├✰ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
 ├✰ _${usedPrefix}fake *<txt1> <@tag> <txt2>*_
 ├✰ _${usedPrefix}ppt *<papel / tijera /piedra>*_
@@ -106,7 +106,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}glx (RPG Mundo)_
 └─────────────────────────────┘
  
-┌────${tradutor.texto1[6]}─────────────────────────┐
+┌────${tradutor.texto1[6]}──────┐
 ├✰ _${usedPrefix}enable *welcome*_
 ├✰ _${usedPrefix}disable *welcome*_
 ├✰ _${usedPrefix}enable *modohorny*_
@@ -135,7 +135,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}disable *antidelete*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[7]}─────────────────────────┐
+┌────${tradutor.texto1[7]}──────┐
 ├✰ _${usedPrefix}play *<txt>*_
 ├✰ _${usedPrefix}play2 *<txt>*_
 ├✰ _${usedPrefix}play.1 *<txt>*_
@@ -170,7 +170,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}xvideosdl *<url>*_ 
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[8]}─────────────────────────┐
+┌────${tradutor.texto1[8]}──────┐
 ├✰ _${usedPrefix}githubsearch *<txt>*_
 ├✰ _${usedPrefix}pelisplus *<txt>*_
 ├✰ _${usedPrefix}modapk *<txt>*_
@@ -186,7 +186,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}playstore *<txt>*_
 └─────────────────────────────┘
  
-┌────${tradutor.texto1[9]}─────────────────────────┐
+┌────${tradutor.texto1[9]}──────┐
 ├✰ _${usedPrefix}add *num>*_
 ├✰ _${usedPrefix}kick *<@tag>*_
 ├✰ _${usedPrefix}kick2 *<@tag>*_
@@ -217,7 +217,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _admins *<txt>*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[10]}─────────────────────────┐
+┌────${tradutor.texto1[10]}──────┐
 ├✰ _${usedPrefix}toanime *<img>*_
 ├✰ _${usedPrefix}togifaud *<video>*_
 ├✰ _${usedPrefix}toimg *<sticker>*_
@@ -230,7 +230,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}tts *<efecto> <txt>*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[11]}─────────────────────────┐
+┌────${tradutor.texto1[11]}──────┐
 ├✰ _${usedPrefix}logos *<efecto> <txt>*_
 ├✰ _${usedPrefix}logochristmas *<txt>*_
 ├✰ _${usedPrefix}logocorazon *<txt>*_
@@ -243,14 +243,14 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}blur_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[12]}─────────────────────────┐
+┌────${tradutor.texto1[12]}──────┐
 ├✰ _${usedPrefix}piropo_
 ├✰ _${usedPrefix}consejo_
 ├✰ _${usedPrefix}fraseromantica_
 ├✰ _${usedPrefix}historiaromantica_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[13]}─────────────────────────┐
+┌────${tradutor.texto1[13]}──────┐
 ├✰ _${usedPrefix}kpop *<blackpink / exo>*_
 ├✰ _${usedPrefix}cristianoronaldo_
 ├✰ _${usedPrefix}messi_
@@ -280,7 +280,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}randomprofile_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[14]}─────────────────────────┐
+┌────${tradutor.texto1[14]}──────┐
 ├✰ _${usedPrefix}inspect *<wagc_url>*_
 ├✰ _${usedPrefix}chatgpt *<txt>*_
 ├✰ _${usedPrefix}delchatgpt_
@@ -312,7 +312,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}img *<txt>*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[15]}─────────────────────────┐
+┌────${tradutor.texto1[15]}──────┐
 ├✰ _${usedPrefix}adventure_
 ├✰ _${usedPrefix}cazar_
 ├✰ _${usedPrefix}cofre_
@@ -335,7 +335,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}unreg *<sn>*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[16]}─────────────────────────┐
+┌────${tradutor.texto1[16]}──────┐
 ├✰ _${usedPrefix}sticker *<responder a img o video>*_
 ├✰ _${usedPrefix}sticker *<url>*_
 ├✰ _${usedPrefix}sticker2 *<responder a img o video>*_
@@ -364,7 +364,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}stickerfilter *<efecto> <img>*_
 └─────────────────────────────┘
 
-┌────${tradutor.texto1[17]}─────────────────────────┐
+┌────${tradutor.texto1[17]}──────┐
 ├✰ _${usedPrefix}dsowner_
 ├✰ _${usedPrefix}setprefix *<prefijo>*_
 ├✰ _${usedPrefix}resetprefix_
