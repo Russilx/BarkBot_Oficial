@@ -46,7 +46,7 @@ ${tradutor.texto1[1]} ${taguser}
 ├✰ _${usedPrefix}glx_
 └──────────┘
 
-${tradutor.texto1[3]}
+*${tradutor.texto1[3]}*
 ┌──────────┐
 ├✰ _${usedPrefix}terminosycondiciones_
 ├✰ _${usedPrefix}grupos_
