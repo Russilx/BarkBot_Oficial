@@ -36,7 +36,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 ${tradutor.texto1[1]} ${taguser}
  
-${tradutor.texto1[2]}
+*${tradutor.texto1[2]}*_
 ┌──────────┐
 ├✰ _${usedPrefix}menuaudios_
 ├✰ _${usedPrefix}menuanimes_
