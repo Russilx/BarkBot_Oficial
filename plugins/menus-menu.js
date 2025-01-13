@@ -35,7 +35,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const str = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]} ${taguser}
-${tradutor.texto1[18]}
+${tradutor.texto1[19]}
 
 *${tradutor.texto1[2]}*
 ┌──────────┐
